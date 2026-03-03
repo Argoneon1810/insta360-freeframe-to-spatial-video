@@ -179,3 +179,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# custom
+create_dummy.txt
+dummy_base.mp4
+dummy_spatial.mp4
+legacy/
